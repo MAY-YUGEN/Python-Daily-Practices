@@ -1,1 +1,0 @@
-"If we don't return argument is will return:"
